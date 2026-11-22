@@ -195,3 +195,7 @@ atomic file writing and settings mapping are all plain Swift, exercised by
 
 Everything is done in-process over HTTP and file I/O — no `modelswitch`/`cps`
 binary needs to be installed.
+
+## License
+
+[MIT](LICENSE) — do whatever you want with it, just keep the copyright notice.
